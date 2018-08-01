@@ -11,35 +11,31 @@ img.best{
   border: dashed red;
 }
 
-img.cupcake{
-  border-radius: 20%;
-  max-height: 500px;
+.cupcake{
   max-width: 650px;
-  border: red;
-}
-
-p.cupcake{
   font-family: cursive;
 }
 
-.intro{
-  max-width: 50%;
+img.cupcake{
+  border-radius: 20%;
+  max-height: 500px;
+  border: red;
 }
 
-p.intro{
+
+
+.intro{
   max-width: 70%;
 }
 
 h2.intro{
     font-family: cursive;
-    border-color: red;
-    border-width: medium;
 }
 
 img.intro{
   border: solid red;
   border-width: thick;
-  border
+  display: block
 }
 
 .frontpage{
