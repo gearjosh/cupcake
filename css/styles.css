@@ -45,3 +45,24 @@ img.intro{
 body {
   font-family: sans-serif;
 }
+
+.column {
+  max-width: 250px;
+  width: 250px;
+  float: left;
+  padding: 20px;
+}
+
+.column img {
+  max-width: 250px;
+  width: 250px;
+  float: left;
+  padding: 20px;
+}
+
+.bar {
+  width: 150px;
+  float: right;
+  padding: 5px;
+  background-color: lightblue;
+}
