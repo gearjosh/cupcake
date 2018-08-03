@@ -1,0 +1,51 @@
+.flashy{
+  color: red;
+  font-family: cursive;
+  font-style: italic;
+}
+
+img.best{
+  border-radius: 50%;
+  max-height: 600px;
+  max-width: 650px;
+  border: dashed red;
+}
+
+img.cupcake{
+  border-radius: 20%;
+  max-height: 500px;
+  max-width: 650px;
+  border: red;
+}
+
+p.cupcake{
+  font-family: cursive;
+}
+
+.intro{
+  max-width: 50%;
+}
+
+p.intro{
+  max-width: 70%;
+}
+
+h2.intro{
+    font-family: cursive;
+    border-color: red;
+    border-width: medium;
+}
+
+img.intro{
+  border: solid red;
+  border-width: thick;
+  border
+}
+
+.frontpage{
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+}
